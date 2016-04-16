@@ -1,7 +1,7 @@
 modEntry = {
-	Client = nil,
-	Server = nil,
-	Shared = nil,
+	Client = "lua/AllFilter/AllFilter_NoHooks.lua",
+	Server = "lua/AllFilter/AllFilter_NoHooks.lua",
+	Shared = "lua/AllFilter/AllFilter_NoHooks.lua",
 	FileHooks = "lua/AllFilter/AllFilter_FileHooks.lua",
 	Priority = 50
 }

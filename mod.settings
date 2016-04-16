@@ -4,5 +4,5 @@ output_dir  = "output"
 description = [=[Makes the "ALL" filter default.]=]
 image       = "preview.jpg"
 tag_modtype = "Look and Feel"
-tag_support = ""
+tag_support = "Passes Default Consistency"
 publish_id = "27bedaa3"
