@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<project>
+  <file>
+    <filename>source\lua\entry\AllFilter.entry</filename>
+  </file>
+  <file>
+    <filename>source\lua\AllFilter\AllFilter.lua</filename>
+  </file>
+  <file>
+    <filename>source\lua\AllFilter\AllFilter_FileHooks.lua</filename>
+  </file>
+  <file>
+    <filename>source\lua\AllFilter\AllFilter_GUIMainMenuHooks.lua</filename>
+  </file>
+</project>
