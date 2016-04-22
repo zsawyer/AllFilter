@@ -1,7 +1,7 @@
 name        = "AllFilterAsDefault"
 source_dir  = "source"
 output_dir  = "output"
-description = [=[Makes the "ALL" filter default.]=]
+description = [=[Makes the "ALL" tab (aka filter) default everytime you open the Server Browser. ]=]
 image       = "preview.jpg"
 tag_modtype = "Look and Feel"
 tag_support = "Passes Default Consistency"

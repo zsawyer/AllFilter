@@ -10,6 +10,6 @@
     <filename>source\lua\AllFilter\AllFilter_FileHooks.lua</filename>
   </file>
   <file>
-    <filename>source\lua\AllFilter\AllFilter_GUIMainMenuHooks.lua</filename>
+    <filename>source\lua\AllFilter\AllFilter_ServerTabsHooks.lua</filename>
   </file>
 </project>

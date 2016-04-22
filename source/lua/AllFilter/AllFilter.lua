@@ -1,9 +1,9 @@
 
 AllFilter = { }
-AllFilter.debugging = false
+AllFilter.debugging = true
 
 AllFilter.modName = "AllFilterAsDefault"
-AllFilter.build = "b0002"
+AllFilter.build = "b0004"
 AllFilter.msgPrefix = "[" .. AllFilter.modName .. "] "
 AllFilter.infoText = "not initialized"
 
@@ -17,8 +17,9 @@ function AllFilter.debug(message)
     end
 end
 
-function AllFilter.init()
+function AllFilter.version()
     AllFilter.debug("debugging enabled")
     AllFilter.message("initialized (build " .. AllFilter.build .. ")")
 end
 
+AllFilter.version()
