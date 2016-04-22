@@ -1,9 +1,9 @@
 
 AllFilter = { }
-AllFilter.debugging = true
+AllFilter.debugging = false
 
 AllFilter.modName = "AllFilterAsDefault"
-AllFilter.build = "b0004"
+AllFilter.build = "b0005"
 AllFilter.msgPrefix = "[" .. AllFilter.modName .. "] "
 AllFilter.infoText = "not initialized"
 
