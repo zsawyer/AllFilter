@@ -1,7 +1,10 @@
 name        = "AllFilterAsDefault"
 source_dir  = "source"
 output_dir  = "output"
-description = [=[Makes the "ALL" tab (aka filter) default everytime you open the Server Browser. ]=]
+description = [=[Makes the "ALL" tab (aka filter) default everytime you open the Server Browser. 
+
+LGPLv3
+https://github.com/zsawyer/AllFilter]=]
 image       = "preview.jpg"
 tag_modtype = "Look and Feel"
 tag_support = "Passes Default Consistency"
